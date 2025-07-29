@@ -41,16 +41,6 @@ Double-click any English word on any website to instantly get its Hindi translat
 
 ---
 
-## 📣 Promotion Tips
-
-- Share on [Reddit](https://www.reddit.com/r/chrome_extensions/), ProductHunt, and LinkedIn
-- Add to [Chrome Web Store](https://chrome.google.com/webstore/devconsole)
-- Add demo GIF or video
-- Create a short blog/tutorial with screenshots
-- Ask early users for feedback
-
----
-
 ## 🙌 Contribute
 
 Pull requests are welcome! Open issues for suggestions and bugs.
