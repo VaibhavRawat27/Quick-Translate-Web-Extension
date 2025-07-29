@@ -41,16 +41,6 @@ Double-click any English word on any website to instantly get its Hindi translat
 
 ---
 
-## 📦 Download
-
-[![Download README.md](https://img.shields.io/badge/Download%20README.md-%F0%9F%93%9C-blue?style=for-the-badge)](https://github.com/yourusername/your-repo-name/raw/main/README.md)
-
-[![Download Full Extension (ZIP)](https://img.shields.io/badge/Download%20Extension-ZIP-blue?style=for-the-badge)](https://yourdirectziplink.com/QuickTranslate.zip)
-
-> Replace these links above with your GitHub or Drive link!
-
----
-
 ## 📣 Promotion Tips
 
 - Share on [Reddit](https://www.reddit.com/r/chrome_extensions/), ProductHunt, and LinkedIn
