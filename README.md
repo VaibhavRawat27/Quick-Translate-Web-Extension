@@ -2,8 +2,6 @@
 
 Double-click any English word on any website to instantly get its Hindi translation in a sleek popup bubble. Perfect for language learners, curious minds, and productivity-focused users!
 
-![QuickTranslate Demo](https://your-demo-gif-or-screenshot-link-here) <!-- optional demo image -->
-
 ---
 
 ## 🚀 Features
