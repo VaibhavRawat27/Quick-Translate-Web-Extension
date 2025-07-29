@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "QuickTranslate Bubble",
+  "version": "1.0",
+  "description": "Double-click English words to get translations in your selected language.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

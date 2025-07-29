@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>QuickTranslate Settings</title>
+  <style>
+    body { font-family: Arial; padding: 10px; }
+    label { display: block; margin-bottom: 6px; }
+    button { margin-top: 10px; padding: 6px 10px; }
+  </style>
+</head>
+<body>
+  <h3>Select Translation Language</h3>
+  <form id="langForm">
+    <label><input type="radio" name="lang" value="hi" checked> Hindi</label>
+    <label><input type="radio" name="lang" value="es"> Spanish</label>
+    <label><input type="radio" name="lang" value="fr"> French</label>
+    <label><input type="radio" name="lang" value="de"> German</label>
+    <label><input type="radio" name="lang" value="bn"> Bengali</label>
+    <button type="submit">Save Language</button>
+  </form>
+  <p id="status" style="color: green;"></p>
+
+  <script src="popup.js"></script>
+</body>
+</html>
