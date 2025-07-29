@@ -53,4 +53,4 @@ MIT License – Free for personal and commercial use
 
 ---
 
-Made with ❤️ by [YourName]
+Made with ❤️ by Vaibhav Rawat
